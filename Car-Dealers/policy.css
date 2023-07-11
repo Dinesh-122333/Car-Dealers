@@ -1,0 +1,47 @@
+.policy-img{
+    width: 1290px;
+    height: 600px;
+    position: absolute;
+    z-index: 0;
+    background-color: cadetblue;
+    
+}
+.policy{
+    background-image: url(Images/Policy.webp);
+    background-size: 1290px;
+    background-position-y: -50px;
+}
+.policy-title{
+    padding-top: 400px;
+    padding-bottom: 200px;
+    padding-left: 600px;
+    font-style: italic;
+    border-color: black;
+    color: rgb(115, 184, 248);
+    text-shadow: -1px 0 black;
+}
+
+.policy-subtitle{
+    color: cadetblue;
+    padding-bottom: 10px;
+    padding-left: 40px;
+}
+.policy-description{
+    font-style: italic;
+    color: darkgrey;
+    padding-left: 45px;
+    padding-bottom: 20px;
+    padding-right: 40px;
+}
+.mainfooter{
+    padding-top: 50px;
+    background-color:rgb(71, 119, 138);
+    color: aliceblue;
+    margin-top: 50px;
+}
+a{
+    color:aliceblue;
+}
+.footer-pad{
+    margin-left: 50px;
+}

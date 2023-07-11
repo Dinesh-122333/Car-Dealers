@@ -1,0 +1,172 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.side-img{
+    height: 600px;
+    width: 400px;
+}
+.container-fluid{
+    box-shadow: 0 5px 3px 0 rgba(0,0,0,0.2);
+    padding: 10px;
+    
+}
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+.d-block{
+    height: 500px;
+    width: 700px;
+    
+}
+.carousel{
+    width: fit-content;
+    position: absolute;
+
+}
+.car-tit{
+    margin-left: 800px;
+    margin-top: 80px;
+}
+.car-detial{
+    margin-left: 800px;
+
+}
+.car-description{
+    margin-left: 800px;
+
+}
+.car-rate{
+    margin-left: 800px;
+    margin-top: 50px;
+}
+.btn1{
+    color:rgb(104, 104, 253);
+    background-color:aliceblue;
+    border-color: #3076B9;
+    margin-left: 810px;
+    margin-top: 50px;
+    padding:10px 25px 10px 25px;
+    font-size: larger;
+    border-radius: 10px;
+    position:absolute;
+}
+.btn1:hover{
+    background-color: #3076B9;
+    color:aliceblue;
+}
+.btn2{
+    color:rgb(107, 107, 107);
+    background-color:aliceblue;
+    border-color: rgb(107, 107, 107);
+    margin-left: 1000px;
+    margin-top: 50px;
+    font-size: larger;
+    padding:10px 30px 10px 30px;
+    border-radius: 10px;
+}
+.btn2:hover{
+    background-color: rgb(107, 107, 107);
+    color:aliceblue;
+}
+.Car-overview{
+    margin-top: 200px;
+    margin-left: 40px;
+}
+.Car-overview-tit{
+    color :cadetblue;
+    position: absolute;
+    padding-bottom: 150px;
+}
+.Car-overview-m1{
+    margin-top: 50px;
+    color:darkgray;
+    margin-left: 80px;
+    position: absolute;
+}
+.Car-overview-descri1{
+    margin-left: 80px;
+    padding-top:80px;
+    position: absolute;
+    
+
+}
+.Car-overview-m2{
+    padding-top: 50px;
+    color:darkgray;
+    margin-left: 380px;
+    position: absolute;
+}
+.Car-overview-descri2{
+    margin-left: 380px;
+    padding-top:80px;
+    position: absolute;   
+}
+.Car-overview-m3{
+    padding-top: 50px;
+    color:darkgray;
+    margin-left: 730px;
+    position: absolute;
+}
+.Car-overview-descri3{
+    margin-left: 730px;
+    padding-top:80px;
+    position: absolute;
+}
+.Car-overview-m4{
+    padding-top: 50px;
+    color:darkgray;
+    margin-left: 1060px;
+    position: absolute;
+}
+.Car-overview-descri4{
+    margin-left: 1060px;
+    padding-top:80px;
+    position: absolute;
+}
+.Car-overview-m5{
+    margin-left: 230px;
+    padding-top:200px;
+    position: absolute;
+    color:darkgray;
+}
+.Car-overview-descri5{
+    margin-left: 230px;
+    padding-top:230px;
+    position: absolute;
+}
+.Car-overview-m6{
+    margin-left: 600px;
+    padding-top:200px;
+    position: absolute;
+    color:darkgray;   
+}
+.Car-overview-descri6{
+    margin-left: 600px;
+    padding-top:230px;
+    position: absolute;
+}
+.Car-overview-m7{
+    margin-left: 880px;
+    padding-top:200px;
+    position: absolute;
+    color:darkgray;   
+}
+.Car-overview-descri7{
+    margin-left: 880px;
+    padding-top:230px;
+}
+.mainfooter{
+    padding-top: 50px;
+    background-color:rgb(71, 119, 138);
+    color: aliceblue;
+    margin-top: 50px;
+}
+a{
+    color:aliceblue;
+}
+.footer-pad{
+    margin-left: 50px;
+}
